@@ -39,13 +39,13 @@ Authorities can monitor these issues, prioritize solutions based on votes, and u
 
 #### Installation  
 # Clone the repository  
-git clone   
+git clone  https://github.com/giftyabraham46/EchoVote
 
 # Install dependencies  
- 
+ basic html,css,js
 
 #### Run  
-index.html
+test1.html
 
 ---
 
