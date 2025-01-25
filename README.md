@@ -28,7 +28,6 @@ Authorities can monitor these issues, prioritize solutions based on votes, and u
 **For Software:**  
 - **Languages Used:**  HTML, CSS, JavaScript 
 - **Frameworks Used:** None (Pure JavaScript for functionality)  
--
 - **Tools Used:** Google Maps API (for interactive map and geolocation),LocalStorage (for basic data persistence and storing reported issues)
 
 ---
