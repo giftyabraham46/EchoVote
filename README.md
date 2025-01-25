@@ -1,64 +1,78 @@
 # EchoVote 🎯
 
+## Basic Details  
+### Team Name: **Gifty K Abraham**  
 
-## Basic Details
-### Team Name: [Gifty K Abraham]
+### Hosted Project Link  
+[mention your project hosted link here]  
 
+### Project Description  
+EchoVote is a platform that enables residents to report community problems, prioritize them through a voting system, and track their resolutions. It fosters transparency, community engagement, and efficient problem-solving by connecting residents with local authorities.
 
-### Hosted Project Link
-[mention your project hosted project link here]
+### The Problem Statement  
+Local communities face difficulties in reporting and addressing common issues like broken infrastructure, environmental hazards, or public safety concerns. Inefficient communication and lack of transparency hinder timely and effective problem resolution.
 
-### Project Description
-EchoVote Platform enables residents to report local problems, prioritize them through voting, and track resolutions, fostering transparency, community engagement, and efficient problem-solving.
+### The Solution  
+The EchoVote platform allows residents to:  
+- Report issues via a simple and user-friendly interface.  
+- Upvote and prioritize critical problems that need immediate attention.  
+- Visualize reported issues on an interactive map.  
 
-### The Problem statement
-Local communities face challenges in reporting and addressing issues like broken infrastructure, environmental hazards, or public safety concerns. Inefficient communication and lack of transparency hinder timely resolutions.
-
-### The Solution
-The platform empowers residents to report issues via a user-friendly app, upvote priorities, and visualize problems on an interactive map. Authorities can monitor reports, update statuses, and engage with the community, ensuring accountability and efficient problem resolution.
-
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Authorities can monitor these issues, prioritize solutions based on votes, and update the status of problems in real-time, ensuring transparency and community engagement.
 
 ---
-Made with ❤️ at TinkerHub
+
+## Technical Details  
+### Technologies/Components Used  
+
+**For Software:**  
+- **Languages Used:** JavaScript, Python  
+- **Frameworks Used:** React (Frontend), Flask or Django (Backend)  
+- **Libraries Used:** Leaflet.js (Interactive Map), Firebase Cloud Messaging (Notifications)  
+- **Tools Used:** PostgreSQL (Database), GeoJSON (Location Data Handling), Google Maps API  
+
+---
+
+### Implementation  
+
+**For Software:**  
+
+#### Installation  
+# Clone the repository  
+git clone   
+
+# Install dependencies  
+ 
+
+#### Run  
+index.html
+
+---
+
+### Project Documentation  
+
+#### Screenshots (Add at least 3)  
+
+ 
+![Screenshot 2025-01-25 201323](https://github.com/user-attachments/assets/29396615-3339-4dd5-ac24-f5203e24dc8f)
+![Screenshot 2025-01-25 201309](https://github.com/user-attachments/assets/8180ba96-61b4-4b89-b800-bd096051e7e8)
+![Screenshot 2025-01-25 201251](https://github.com/user-attachments/assets/ac7e2079-f86f-4559-ae32-1ddb212efc97)
+![Screenshot 2025-01-25 201411](https://github.com/user-attachments/assets/4cfc1de4-3790-4a82-aef1-b9934aff583e)
+![Screenshot 2025-01-25 201359](https://github.com/user-attachments/assets/fdd5fc9d-b880-4996-96fa-8768ae6e3257)
+![Screenshot 2025-01-25 201343](https://github.com/user-attachments/assets/8b236a7d-06de-4d8f-aa75-e289ac27b7c7)
+![Screenshot 2025-01-25 201333](https://github.com/user-attachments/assets/7adcec5d-47fe-4a00-912b-7e4a995e0456)
+
+---
+
+### Project Demo  
+
+#### Video  
+https://drive.google.com/file/d/1QvOp_LzyPjHulX6-WIImHyXYjmOf3cYA/view?usp=sharing
+---
+
+## Team Contributions  
+
+- **Gifty K Abraham:** Lead developer, handled frontend development and integration with the interactive map.   
+
+---  
+*Made with ❤️ at TinkerHub*  
