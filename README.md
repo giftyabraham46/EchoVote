@@ -4,7 +4,7 @@
 ### Team Name: **Gifty K Abraham**  
 
 ### Hosted Project Link  
-[mention your project hosted link here]  
+[Click Here  ](https://echo-vote.vercel.app/)
 
 ### Project Description  
 EchoVote is a platform that enables residents to report community problems, prioritize them through a voting system, and track their resolutions. It fosters transparency, community engagement, and efficient problem-solving by connecting residents with local authorities.
@@ -64,10 +64,12 @@ test1.html
 
 ---
 
-### Project Demo  
-
 #### Video  
-https://drive.google.com/file/d/1QvOp_LzyPjHulX6-WIImHyXYjmOf3cYA/view?usp=sharing
+
+
+https://github.com/user-attachments/assets/1b2a5816-d11a-47fb-ad55-8191e363e1d7
+
+
 ---
 
 ## Team Contributions  
