@@ -26,10 +26,10 @@ Authorities can monitor these issues, prioritize solutions based on votes, and u
 ### Technologies/Components Used  
 
 **For Software:**  
-- **Languages Used:** JavaScript, Python  
-- **Frameworks Used:** React (Frontend), Flask or Django (Backend)  
-- **Libraries Used:** Leaflet.js (Interactive Map), Firebase Cloud Messaging (Notifications)  
-- **Tools Used:** PostgreSQL (Database), GeoJSON (Location Data Handling), Google Maps API  
+- **Languages Used:**  HTML, CSS, JavaScript 
+- **Frameworks Used:** None (Pure JavaScript for functionality)  
+-
+- **Tools Used:** Google Maps API (for interactive map and geolocation),LocalStorage (for basic data persistence and storing reported issues)
 
 ---
 
